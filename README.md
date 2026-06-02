@@ -8,7 +8,7 @@ The repository demonstrates versatility by implementing complex cryptographic ma
 This repository is organized by programming language and technology stack:
 
 *   **[Python-Notebooks](/Python-Notebooks):** Jupyter Notebook implementations focusing on GOST standards and hash collision analysis.
-*   **[CSharp-Labs](/CSharp-Labs):** Console applications built with C# .NET, featuring network protocol simulations and zero-knowledge proofs.
+*   **[CryptoLabsUpload](/CryptoLabsUpload):** Console applications built with C# .NET, featuring network protocol simulations and zero-knowledge proofs.
 
 *(Note: If you have standalone C# lab folders in the root, they belong to the C# section).*
 
